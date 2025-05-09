@@ -7,4 +7,4 @@ I made some adjustments such as renaming the JS file, linking it to the HTML pag
 This is an online résumé project built with HTML, CSS, and JavaScript. The page displays information such as name, email, phone number, experience, and skills. JavaScript is used only to show data in the console, such as name, age, and year of birth. The layout was adapted to work well on mobile devices.
 
 Aqui o ptint do projeto 
-![imagem do projeto](print/print.png)
+![imagem do projeto](Print/print.png)
